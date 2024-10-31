@@ -41,3 +41,12 @@ After installation, you can run the `Breast-Cancer.py` file to preprocess the da
 
 ```bash
 python Breast-Cancer.py
+
+## Results
+The model with the highest accuracy achieves 96% on the test set. Further details on performance metrics and analysis are provided in the results section.
+
+Contributing
+Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
+
+License
+Distributed under the MIT License. See LICENSE for more information.
